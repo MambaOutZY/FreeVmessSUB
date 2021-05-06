@@ -8,7 +8,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 def main():
-    response = urllib.request.urlopen({{ secrets.URL }})
+    response = urllib.request.urlopen(${{secrets.URL}})
     html = response.read().decode('utf-8')
     soup = BeautifulSoup(html, 'html.parser')
     thumb = soup.find_all("div", class_="thumb")[0]
