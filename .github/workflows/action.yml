@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   # 定时触发
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '40 0-23 * * *'
     # 表达式生成  https://crontab.guru/
     # 此处是UTC时间 即北京时间 -8小时
    #  - cron: '40 2,12 * * *'
