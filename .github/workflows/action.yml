@@ -41,7 +41,7 @@ jobs:
          git config --local user.email "738419006@qq.com"
          git config --local user.name "MambaOutZY"
          git add v2ray.txt
-         git add clash.yml
+         git add clash.txt
          git commit -m "更新订阅链接"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
