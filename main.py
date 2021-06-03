@@ -6,11 +6,7 @@ from bs4 import BeautifulSoup
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
-import socket
-import socks
 
-socks.set_default_proxy(socks.SOCKS5, "127.0.0.1", 1081)
-socket.socket = socks.socksocket
 
 
 def main():
