@@ -5,72 +5,387 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化, server: di2.xyz, port: 39006, type: vmess, uuid: 072dee67-9f6c-36c4-9ef3-c6ec419e437f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /xgr, ws-headers: {Host: di2.xyz}}
-  - {name: 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化, server: di2.xyz, port: 39003, type: vmess, uuid: 072dee67-9f6c-36c4-9ef3-c6ec419e437f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /xgr, ws-headers: {Host: di2.xyz}}
-  - {name: 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化, server: di2.xyz, port: 39008, type: vmess, uuid: 072dee67-9f6c-36c4-9ef3-c6ec419e437f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ny, ws-headers: {Host: di2.xyz}}
-  - {name: 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化, server: di2.xyz, port: 39005, type: vmess, uuid: 072dee67-9f6c-36c4-9ef3-c6ec419e437f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /xgr, ws-headers: {Host: di2.xyz}}
+  - {name: https://www.mattkaydiary.com|🇺🇳SS综合节点, server: linn.linn.ink, port: 20010, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK, server: 16.162.22.38, port: 20010, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
+  - {name: 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US, server: 54.177.24.1, port: 20010, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK, server: 16.162.22.38, port: 20020, type: vmess, uuid: 39341fe7-b8b7-4605-a811-af1f1d46d4fb, alterId: 100, cipher: auto, tls: false}
+  - {name: 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717, server: 104.21.19.155, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150, server: 12.HKG.ASIA.BIGAIRPORT.NET, port: 80, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 12.HKG.ASIA.BIGAIRPORT.NET}}
+  - {name: 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb, server: 16.162.22.38, port: 20020, type: vmess, uuid: 39341fe7-b8b7-4605-a811-af1f1d46d4fb, alterId: 100, cipher: auto, tls: false}
+  - {name: 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb, server: cnjm.xlanfly.xyz, port: 40007, type: vmess, uuid: ee7b71d2-f3e5-45de-8d80-dab3848e9a6c, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cnjm.xlanfly.xyz}}
+  - {name: https://www.mattkaydiary.com|Relay_ | 7.70Mb, server: 1.1.1.1, port: 80, type: vmess, uuid: a20ffefe-e575-4ca8-d0d9-608df76552e5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /stream, ws-headers: {Host: streampipe2.us-west2.cphxte9xxqgdrn3z.tk}}
+  - {name: https://www.mattkaydiary.com|Relay_ |32.23Mb, server: hk1.xyttk.vip, port: 8080, type: vmess, uuid: bb135747-a260-429b-826c-d686d739eaa8, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
+  - {name: https://www.mattkaydiary.com|Relay_ |12.56Mb, server: 23.101.11.40, port: 10010, type: vmess, uuid: e9a058c8-4960-4b05-8699-0c526058d345, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /index, ws-headers: {Host: sg1.xxl123.fun}}
+  - {name: https://www.mattkaydiary.com|Relay_ |21.80Mb, server: 52.175.61.220, port: 10007, type: vmess, uuid: e9a058c8-4960-4b05-8699-0c526058d345, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /index, ws-headers: {Host: us7.xxl123.fun}}
+  - {name: https://www.mattkaydiary.com|Relay_ |54.61Mb, server: 23.101.11.40, port: 10003, type: vmess, uuid: e9a058c8-4960-4b05-8699-0c526058d345, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /f932c3d98981b, ws-headers: {Host: f932c3d98981b.download.microsoft.com}}
+  - {name: https://www.mattkaydiary.com| |23.13Mb, server: 72.44.74.98, port: 443, type: vmess, uuid: 81295af2-bcd2-0d7e-8bc4-f1367049cf95, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /gafnvws, ws-headers: {Host: 72-44-74-98.wdnmd1145141919810.xyz}}
+  - {name: https://www.mattkaydiary.com| |17.98Mb, server: 173.242.117.35, port: 10001, type: vmess, uuid: e8e88e59-2453-4778-9e94-aa7669d8b2af, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray, server: gdyd01.ddns-only.xyz, port: 40171, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: gdyd01.ddns-only.xyz}}
+  - {name: 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray, server: yy-jz-iplc-01.ddns-only.xyz, port: 40173, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: yy-jz-iplc-01.ddns-only.xyz}}
+  - {name: 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray, server: yy-jz-iplc-01.ddns-only.xyz, port: 40175, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: yy-jz-iplc-01.ddns-only.xyz}}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray, server: yy-jz-iplc-01.ddns-only.xyz, port: 40204, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: yy-jz-iplc-01.ddns-only.xyz}}
+  - {name: 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray, server: jzyjxcn2.ddns-only.xyz, port: 40101, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: jzyjxcn2.ddns-only.xyz}}
+  - {name: 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray, server: jzyjxcn2.ddns-only.xyz, port: 40103, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: jzyjxcn2.ddns-only.xyz}}
+  - {name: 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray, server: jzyjxcn2.ddns-only.xyz, port: 40105, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: jzyjxcn2.ddns-only.xyz}}
+  - {name: 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray, server: gdyd01.ddns-only.xyz, port: 40075, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: gdyd01.ddns-only.xyz}}
+  - {name: 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray, server: gdyd01.ddns-only.xyz, port: 40077, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: gdyd01.ddns-only.xyz}}
+  - {name: 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray, server: jzgdyd-tw.ddns-only.xyz, port: 40079, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: jzgdyd-tw.ddns-only.xyz}}
+  - {name: 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray, server: gdyd01.ddns-only.xyz, port: 40194, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: gdyd01.ddns-only.xyz}}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray, server: niuniu-shlt-01.ddns-only.xyz, port: 40027, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: niuniu-shlt-01.ddns-only.xyz}}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray, server: gdyd01.ddns-only.xyz, port: 40049, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: gdyd01.ddns-only.xyz}}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray, server: gdyd01.ddns-only.xyz, port: 40051, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: gdyd01.ddns-only.xyz}}
+  - {name: https://www.mattkaydiary.com|_973, server: 54.215.234.182, port: 14924, type: vmess, uuid: d099824d-8259-4c45-f6ab-c1896f741393, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542, server: nccn.liyun.edu.pl, port: 63070, type: vmess, uuid: ee7b71d2-f3e5-45de-8d80-dab3848e9a6c, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: nccn.liyun.edu.pl}}
+  - {name: 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546, server: yy-jz-iplc-01.ddns-only.xyz, port: 40137, type: vmess, uuid: 8916b7be-5a88-32ad-aa03-7c30a50db130, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: yy-jz-iplc-01.ddns-only.xyz}}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645, server: 23.101.11.40, port: 20021, type: vmess, uuid: e9a058c8-4960-4b05-8699-0c526058d345, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: 23.101.11.40}}
+  - {name: 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647, server: 23.101.11.40, port: 20022, type: vmess, uuid: e9a058c8-4960-4b05-8699-0c526058d345, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /f932c3d98981b, ws-headers: {Host: f932c3d98981b.download.microsoft.com}}
+  - {name: 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437, server: 154.84.1.215, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
+  - {name: 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
+  - {name: 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439, server: 154.84.1.214, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
+  - {name: 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441, server: 46.182.107.150, port: 443, type: vmess, uuid: d3243794-6fe7-437d-862f-0a6392d00f70, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
+  - {name: 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450, server: 46.182.107.3, port: 443, type: vmess, uuid: b2aa7a8a-ab88-4c0f-a310-0b9456c69420, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.33960870.xyz}}
+  - {name: 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
+  - {name: 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327, server: 104.149.202.54, port: 80, type: vmess, uuid: e5c04139-0d1b-4d09-8718-78feeeaaa057, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 104.149.202.54}}
+  - {name: 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330, server: 23.224.30.43, port: 443, type: vmess, uuid: 0ee25280-a5e2-41b0-9649-c837ca69ecc2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.65187662.xyz}}
+  - {name: 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334, server: 104.18.7.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用, server: 80.85.156.31, port: 40331, type: vmess, uuid: f3dc16e3-715c-4839-abd3-8e0c6df46064, alterId: 0, cipher: auto, tls: false}
+  - {name: 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2, server: 80.85.156.31, port: 37705, type: ss, cipher: chacha20-ietf-poly1305, password: xiaodongyoutuber}
+  - {name: 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用, server: 5.183.179.94, port: 47148, type: vmess, uuid: 730cb94d-012a-4bfc-aa2a-1573f63e5905, alterId: 0, cipher: auto, tls: false}
+  - {name: 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2, server: 5.183.179.94, port: 29082, type: ss, cipher: chacha20-ietf-poly1305, password: xiaodongyoutuber}
+  - {name: 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用, server: 209.141.32.238, port: 32917, type: vmess, uuid: 552f62be-f7ca-465d-b18e-e081e8241ca2, alterId: 0, cipher: auto, tls: false}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化
-      - 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化
-      - 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化
-      - 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化
+      - https://www.mattkaydiary.com|🇺🇳SS综合节点
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb
+      - 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb
+      - https://www.mattkaydiary.com|Relay_ | 7.70Mb
+      - https://www.mattkaydiary.com|Relay_ |32.23Mb
+      - https://www.mattkaydiary.com|Relay_ |12.56Mb
+      - https://www.mattkaydiary.com|Relay_ |21.80Mb
+      - https://www.mattkaydiary.com|Relay_ |54.61Mb
+      - https://www.mattkaydiary.com| |23.13Mb
+      - https://www.mattkaydiary.com| |17.98Mb
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
+      - https://www.mattkaydiary.com|_973
+      - 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542
+      - 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441
+      - 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330
+      - 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化
-      - 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化
-      - 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化
-      - 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化
+      - https://www.mattkaydiary.com|🇺🇳SS综合节点
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb
+      - 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb
+      - https://www.mattkaydiary.com|Relay_ | 7.70Mb
+      - https://www.mattkaydiary.com|Relay_ |32.23Mb
+      - https://www.mattkaydiary.com|Relay_ |12.56Mb
+      - https://www.mattkaydiary.com|Relay_ |21.80Mb
+      - https://www.mattkaydiary.com|Relay_ |54.61Mb
+      - https://www.mattkaydiary.com| |23.13Mb
+      - https://www.mattkaydiary.com| |17.98Mb
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
+      - https://www.mattkaydiary.com|_973
+      - 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542
+      - 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441
+      - 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330
+      - 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化
-      - 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化
-      - 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化
-      - 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化
+      - https://www.mattkaydiary.com|🇺🇳SS综合节点
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb
+      - 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb
+      - https://www.mattkaydiary.com|Relay_ | 7.70Mb
+      - https://www.mattkaydiary.com|Relay_ |32.23Mb
+      - https://www.mattkaydiary.com|Relay_ |12.56Mb
+      - https://www.mattkaydiary.com|Relay_ |21.80Mb
+      - https://www.mattkaydiary.com|Relay_ |54.61Mb
+      - https://www.mattkaydiary.com| |23.13Mb
+      - https://www.mattkaydiary.com| |17.98Mb
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
+      - https://www.mattkaydiary.com|_973
+      - 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542
+      - 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441
+      - 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330
+      - 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化
-      - 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化
-      - 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化
-      - 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化
+      - https://www.mattkaydiary.com|🇺🇳SS综合节点
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb
+      - 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb
+      - https://www.mattkaydiary.com|Relay_ | 7.70Mb
+      - https://www.mattkaydiary.com|Relay_ |32.23Mb
+      - https://www.mattkaydiary.com|Relay_ |12.56Mb
+      - https://www.mattkaydiary.com|Relay_ |21.80Mb
+      - https://www.mattkaydiary.com|Relay_ |54.61Mb
+      - https://www.mattkaydiary.com| |23.13Mb
+      - https://www.mattkaydiary.com| |17.98Mb
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
+      - https://www.mattkaydiary.com|_973
+      - 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542
+      - 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441
+      - 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330
+      - 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化
-      - 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化
-      - 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化
-      - 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化
+      - https://www.mattkaydiary.com|🇺🇳SS综合节点
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb
+      - 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb
+      - https://www.mattkaydiary.com|Relay_ | 7.70Mb
+      - https://www.mattkaydiary.com|Relay_ |32.23Mb
+      - https://www.mattkaydiary.com|Relay_ |12.56Mb
+      - https://www.mattkaydiary.com|Relay_ |21.80Mb
+      - https://www.mattkaydiary.com|Relay_ |54.61Mb
+      - https://www.mattkaydiary.com| |23.13Mb
+      - https://www.mattkaydiary.com| |17.98Mb
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
+      - https://www.mattkaydiary.com|_973
+      - 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542
+      - 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441
+      - 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330
+      - 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化
-      - 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化
-      - 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化
-      - 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化
+      - https://www.mattkaydiary.com|🇺🇳SS综合节点
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb
+      - 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb
+      - https://www.mattkaydiary.com|Relay_ | 7.70Mb
+      - https://www.mattkaydiary.com|Relay_ |32.23Mb
+      - https://www.mattkaydiary.com|Relay_ |12.56Mb
+      - https://www.mattkaydiary.com|Relay_ |21.80Mb
+      - https://www.mattkaydiary.com|Relay_ |54.61Mb
+      - https://www.mattkaydiary.com| |23.13Mb
+      - https://www.mattkaydiary.com| |17.98Mb
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
+      - https://www.mattkaydiary.com|_973
+      - 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542
+      - 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441
+      - 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330
+      - 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -86,10 +401,54 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇦 https://www.mattkaydiary.com|加拿大01 三网优化
-      - 🇹🇷 https://www.mattkaydiary.com|土耳其01 三网优化
-      - 🇩🇪 https://www.mattkaydiary.com|德国01 三网优化
-      - 🇬🇧 https://www.mattkaydiary.com|英国01 三网优化
+      - https://www.mattkaydiary.com|🇺🇳SS综合节点
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①SS->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸①SS->US
+      - 🇭🇰 https://www.mattkaydiary.com|🇭🇰①V2->HK
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸 US_2717
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇭🇰HK_1150
+      - 🇺🇸 https://www.mattkaydiary.com|🇺🇸US_2579 | 2.91Mb
+      - 🇨🇳 https://www.mattkaydiary.com|🇨🇳 CN_41 |28.46Mb
+      - https://www.mattkaydiary.com|Relay_ | 7.70Mb
+      - https://www.mattkaydiary.com|Relay_ |32.23Mb
+      - https://www.mattkaydiary.com|Relay_ |12.56Mb
+      - https://www.mattkaydiary.com|Relay_ |21.80Mb
+      - https://www.mattkaydiary.com|Relay_ |54.61Mb
+      - https://www.mattkaydiary.com| |23.13Mb
+      - https://www.mattkaydiary.com| |17.98Mb
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#171|CN2-香港|NF|x2.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#173|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V1-#175|IPLC-深圳-新加坡|NF|x4.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V1-#204|IPLC-深圳-香港HKT|NF|x4.0|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#101|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#103|cn2-新加坡|NF|x1.5|V2ray
+      - 🇸🇬 https://www.mattkaydiary.com|V2-#105|cn2-新加坡|NF|x1.5|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#75|广东-日本|NF|x1.0|V2ray
+      - 🇯🇵 https://www.mattkaydiary.com|V3-#77|广东-日本|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V3-#79|广东-台湾|NF|x1.0|V2ray
+      - 🇨🇳 https://www.mattkaydiary.com|V4-#194|广东-台湾|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#27|上海-香港|NF|x1.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#49|广港-新加坡|NF|x2.0|V2ray
+      - 🇭🇰 https://www.mattkaydiary.com|V4-#51|广港-新加坡|NF|x2.0|V2ray
+      - https://www.mattkaydiary.com|_973
+      - 🇯🇵 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇯🇵JP_1542
+      - 🇸🇬 https://www.mattkaydiary.com|Relay_🇨🇳CN-🇸🇬SG_1546
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇯🇵JP_2645
+      - 🇭🇰 https://www.mattkaydiary.com|Relay_🇭🇰HK-🇺🇸US_2647
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3437
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3438
+      - 🇳🇱 https://www.mattkaydiary.com|Relay_🇳🇱NL-🇳🇱NL_3439
+      - 🇳🇱 https://www.mattkaydiary.com|🇳🇱NL_3441
+      - 🇳🇱 https://www.mattkaydiary.com|Pool_🇳🇱NL_3450
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5315
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5327
+      - 🇺🇸 https://www.mattkaydiary.com|Relay_🇺🇸US-🇺🇸US_5330
+      - 🇩🇪 https://www.mattkaydiary.com|Relay_🇺🇸US-🇩🇪DE_5334
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的俄罗斯vps|不限流量|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的德国vps|有流量限制|建议网页浏览用 2
+      - 🏳️‍🌈 https://www.mattkaydiary.com|小东的美国vps|不限流量|建议网页浏览用
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
