@@ -39,7 +39,7 @@ def main():
     clash = "".join(result[1])
     clash = clash[clash.index("http"):]
     clashTxt = requests.request("GET", clash, verify=False)
-    with open('./clash.txt', 'w', encoding="utf-8") as f: utf-8
+    with open('./clash.txt', 'w', encoding="utf-8") as f:
         f.write(clashTxt.text)
 
 
