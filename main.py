@@ -33,13 +33,13 @@ def main():
     v2ray = "".join(result[0])
     v2ray = v2ray[v2ray.index("http"):]
     v2rayTxt = requests.request("GET", v2ray, verify=False)
-    with open('./v2ray.txt', 'w') as f:
+    with open('./v2ray.txt', 'w', encoding="utf-8") as f:
         f.write(v2rayTxt.text)
     clash = ""
     clash = "".join(result[1])
     clash = clash[clash.index("http"):]
     clashTxt = requests.request("GET", clash, verify=False)
-    with open('./clash.yml', 'w', encoding="utf-8") as f:
+    with open('./clash.yml', 'w') as f:
         f.write(clashTxt.text)
 
 
