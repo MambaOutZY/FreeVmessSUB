@@ -41,7 +41,7 @@ def main():
     clash = clash[clash.index("http"):]
     clashTxt = requests.request("GET", clash, verify=False)
     day = time.strftime('%Y.%m.%d', time.localtime(time.time()))
-    with open('./clash.yml', 'wb') as f:
+    with open('./clash.txt', 'wb') as f:
         f.write(clashTxt.content)
 
 
