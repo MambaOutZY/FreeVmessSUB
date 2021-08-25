@@ -41,8 +41,8 @@ def main():
     clash = clash[clash.index("http"):]
     clashTxt = requests.request("GET", clash, verify=False)
     day = time.strftime('%Y.%m.%d', time.localtime(time.time()))
-    with open('./clash.yml', 'w') as f:
-        f.write(clashTxt.text.replace('https://www.mattkaydiary.com', day))
+    with open('./clash.yml', 'wb') as f:
+        f.write(clashTxt.content)
 
 
 # 主函数入口
