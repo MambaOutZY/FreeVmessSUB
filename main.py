@@ -3,6 +3,7 @@ import bs4
 import re
 import requests
 from bs4 import BeautifulSoup
+import time
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
@@ -39,8 +40,9 @@ def main():
     clash = "".join(result[1])
     clash = clash[clash.index("http"):]
     clashTxt = requests.request("GET", clash, verify=False)
+    day = time.strftime('%Y.%m.%d', time.localtime(time.time()))
     with open('./clash.yml', 'w') as f:
-        f.write(clashTxt.text)
+        f.write(clashTxt.text.replace('https://www.mattkaydiary.com', day))
 
 
 # 主函数入口
