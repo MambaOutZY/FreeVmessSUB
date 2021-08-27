@@ -11,7 +11,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 def main():
-    response = urllib.request.urlopen('https://www.mattkaydiary.com/search/label/vpn')
+    response = urllib.request.urlopen(${{secrets.reqUrl}})
     html = response.read().decode('utf-8')
     soup = BeautifulSoup(html, 'html.parser')
     thumb = soup.find_all("div", class_="thumb")[0]
