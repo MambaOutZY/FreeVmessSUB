@@ -11,7 +11,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 def main():
-   resp = requests.get("https://etproxypool.ga/clash/proxies?nc=CN,c=HK,TW,JP&speed=30,100&type=vmess")
+    resp = requests.get("https://etproxypool.ga/clash/proxies?nc=CN,c=HK,TW,JP&speed=30,100&type=vmess")
     with open('./v2ray.txt', 'w', encoding="utf-8") as f:
         f.write(resp.text)
 
@@ -24,7 +24,6 @@ def main():
     resp = requests.get("https://etproxypool.ga/clash/proxies?nc=CN,c=HK,TW,JP&speed=30,100&type=trojan")
     with open('./trojan.txt', 'w', encoding="utf-8") as f:
         f.write(resp.text)
-
 
 # 主函数入口
 if __name__ == '__main__':
