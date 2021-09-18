@@ -1,110 +1,72 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<meta http-equiv="refresh" content="0">
-
-<title>etproxypool.ga | 522: Connection timed out</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
-
-
-</head>
-<body>
-<div id="cf-wrapper">
-
-    
-
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              
-              <span class="cf-error-type">Error</span>
-              <span class="cf-error-code">522</span>
-            </h1>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 69097e85ca462c5c &bull;</span>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-09-18 09:20:13 UTC</span>
-            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Connection timed out</h2>
-        </header>
-        
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-  </div>
-  <span class="md:block w-full truncate">Chicago</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-  </div>
-  <span class="md:block w-full truncate">etproxypool.ga</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-              
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
-                </div>
-              
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-              
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">69097e85ca462c5c</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 13.67.178.160</span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-</div><!-- /.error-footer -->
-
-
-    </div>
-</div>
-</body>
-</html>
-
+proxies:
+- {"name":"_1314","server":"a83679f.cw.cloudflare.systems","type":"vmess","port":80,"udp":true,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"none","network":"ws","ws-path":"/t","ws-headers":{"Edge":"a83679f.fm.huawei.com:53325","Host":"sg.moss.network"},"http-opts":{},"h2-opts":{}}
+- {"name":"_1316","server":"a83679f.rf.gladns.com","type":"vmess","port":80,"udp":true,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"none","network":"ws","ws-path":"/t","ws-headers":{"Edge":"a83679f.fm.huawei.com:53325","Host":"rx.moss.network"},"http-opts":{},"h2-opts":{}}
+- {"name":"Relay_-🇺🇸US_1317","server":"96.43.91.60","type":"vmess","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_-🇺🇸US_1318","server":"104.16.160.114","type":"vmess","port":443,"udp":true,"uuid":"5f4b2e42-ff2b-4342-86fc-b7ba1b5361e8","alterId":0,"cipher":"auto","network":"ws","ws-path":"/The-Great-Awakening_vws","ws-headers":{"Host":"vincent-jackson2021.ga"},"http-opts":{},"h2-opts":{},"tls":true}
+- {"name":"_1319","server":"a83679f.th.cloudflare.systems","type":"vmess","port":80,"udp":true,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"none","network":"ws","ws-path":"/t","ws-headers":{"Edge":"a83679f.fm.huawei.com:53325","Host":"enterprise.moss.network"},"http-opts":{},"h2-opts":{}}
+- {"name":"_1320","server":"a83679f.rd.gladns.com","type":"vmess","port":80,"udp":true,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"none","network":"ws","ws-path":"/t","ws-headers":{"Edge":"a83679f.fm.huawei.com:53325","Host":"rx.moss.network"},"http-opts":{},"h2-opts":{}}
+- {"name":"Relay_🇦🇺AU-🇦🇺AU_2139","server":"xgv2.shmilygoudan.com","type":"vmess","country":"🇦🇺AU","port":80,"uuid":"51d6fdc9-2d23-4202-bce0-9f560fa1b684","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"pull.free.video.10010.com","ws-headers":{"HOST":"pull.free.video.10010.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇦🇺AU-🇺🇸US_2140","server":"43.129.250.13","type":"vmess","country":"🇦🇺AU","port":65134,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6073","server":"11.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65111,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6074","server":"6.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65106,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6076","server":"34.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65134,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇸🇬SG_6077","server":"53.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":61153,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6079","server":"44.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":61144,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6080","server":"32.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65132,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6081","server":"40.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65140,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇸🇬SG_6084","server":"51.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65151,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇮🇩ID_6085","server":"8.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65108,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇸🇬SG_6086","server":"9.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65109,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇭🇰HK_6087","server":"33.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65133,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇭🇰HK_6088","server":"4.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65104,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6089","server":"18.167.36.24","type":"vmess","country":"🇭🇰HK","port":56789,"uuid":"48eda63e-f681-4e24-a563-204e4b3774c5","alterId":1,"cipher":"auto","network":"ws","ws-path":"/","servername":"microsoft.com","ws-headers":{"HOST":"microsoft.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6090","server":"66.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65166,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6091","server":"65.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65165,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6093","server":"10.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65110,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇸🇬SG_6094","server":"55.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":61155,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇺🇸US_6095","server":"7.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65107,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇭🇰HK-🇸🇬SG_6097","server":"5.ssrj.xyz","type":"vmess","country":"🇭🇰HK","port":65105,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇰🇷KR-🇰🇷KR_7054","server":"kr1.xh.qjnodeip.xyz","type":"vmess","country":"🇰🇷KR","port":20120,"uuid":"366d7513-7e22-353b-8ac3-412a16eb80a2","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Pool_🇳🇱NL_7568","server":"46.182.107.148","type":"vmess","country":"🇳🇱NL","port":443,"uuid":"1d474f0b-e78d-4af9-bc4a-a467467bc7a7","alterId":64,"cipher":"auto","network":"ws","ws-path":"/footers","servername":"www.73207635.xyz","ws-headers":{"HOST":"www.73207635.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇷🇺RU_8907","server":"45.144.3.208","type":"vmess","country":"🇷🇺RU","port":59785,"uuid":"5a4b09d8-168f-4ea7-968f-f5c3b5822ba8","alterId":64,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇷🇺RU_8908","server":"46.17.45.139","type":"vmess","country":"🇷🇺RU","port":56967,"uuid":"5458261b-ec18-4673-9251-fa7859a5cacb","alterId":0,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇸🇬SG-🇺🇸US_9028","server":"sg.ecyjc.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"067d5a53-47df-3faa-8982-8cf680918e68","alterId":2,"cipher":"auto","network":"ws","ws-path":"/xxx","servername":"sg.ecyjc.com","ws-headers":{"HOST":"sg.ecyjc.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇸🇬SG-🇺🇸US_9029","server":"sg.ecyjc.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"4f4e10cd-5795-3509-9ecb-ecfe3e2a15e7","alterId":2,"cipher":"auto","network":"ws","ws-path":"/xxx","servername":"sg.ecyjc.com","ws-headers":{"HOST":"sg.ecyjc.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇸🇬SG-🇸🇬SG_9030","server":"sg1.xh.qjnodeip.xyz","type":"vmess","country":"🇸🇬SG","port":20102,"uuid":"366d7513-7e22-353b-8ac3-412a16eb80a2","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇸🇬SG-🇸🇬SG_9031","server":"sg2.xh.qjnodeip.xyz","type":"vmess","country":"🇸🇬SG","port":20102,"uuid":"366d7513-7e22-353b-8ac3-412a16eb80a2","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸 US-🇺🇸US_9854","server":"96.43.91.58","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸 US-🇺🇸US_9855","server":"qq1-cloud13.feiclouddd.me","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"478055cc-fdb8-404e-b730-c32faa2c7ca1","alterId":60,"cipher":"auto","network":"ws","ws-path":"/asdfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸 US-🇺🇸US_9856","server":"hk1opuy-node.3366test.com","type":"vmess","country":"🇺🇸 US","port":13723,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8638","alterId":10,"cipher":"auto","network":"ws","ws-path":"/ray","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸 US-🇺🇸US_9857","server":"usa4a-node.3366test.com","type":"vmess","country":"🇺🇸 US","port":13723,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8634","alterId":10,"cipher":"auto","network":"ws","ws-path":"/ray","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸 US-🇺🇸US_9858","server":"usa5b-node.3366test.com","type":"vmess","country":"🇺🇸 US","port":13723,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8634","alterId":10,"cipher":"auto","network":"ws","ws-path":"ray","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸 US-🇺🇸US_9859","server":"96.43.91.59","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸 US-🇺🇸US_9860","server":"nn-ssr4.feiclouddd.me","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"79214731-7f0c-4f2d-a894-13b7df293624","alterId":60,"cipher":"auto","network":"ws","ws-path":"/sadfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_11969","server":"gyc.cloudddns.icu","type":"vmess","country":"🇺🇸US","port":123,"uuid":"d32d8723-5983-3ecc-8e9f-8b57bab1a584","alterId":2,"cipher":"auto","network":"ws","ws-path":"/public","servername":"gyc.cloudddns.icu","ws-headers":{"HOST":"gyc.cloudddns.icu"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Pool_🇺🇸US_11970","server":"67.21.72.52","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Pool_🇺🇸US_11971","server":"67.21.72.36","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_11972","server":"67.21.72.40","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_11973","server":"198.200.51.28","type":"vmess","country":"🇺🇸US","port":21045,"uuid":"1d219570-0d1b-11ec-a57e-00163ca76936","alterId":0,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_11974","server":"137.175.30.251","type":"vmess","country":"🇺🇸US","port":49902,"uuid":"153b7bfa-0d1b-11ec-891d-00163c1393a8","alterId":0,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Pool_🇺🇸US_11975","server":"67.21.72.35","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_11976","server":"hk1.xh.qjnodeip.xyz","type":"vmess","country":"🇺🇸US","port":20120,"uuid":"366d7513-7e22-353b-8ac3-412a16eb80a2","alterId":2,"cipher":"auto","network":"ws","ws-path":"/index","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇷🇺RU_11977","server":"free-russian01-cdn.xiaohouzi.club","type":"vmess","country":"🇺🇸US","port":80,"uuid":"3d31728e-064d-42b8-b945-f79c008f73fc","alterId":233,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_11978","server":"v7.coding996.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"3095ccd7-cb4d-4229-98d3-fde96aa37906","alterId":4,"cipher":"auto","network":"ws","ws-path":"/baidu","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_11979","server":"107.167.9.122","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_11980","server":"149.248.19.78","type":"vmess","country":"🇺🇸US","port":443,"uuid":"79214731-7f0c-4f2d-a894-13b7df293624","alterId":60,"cipher":"auto","network":"ws","ws-path":"/sadfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Pool_🇺🇸US_11981","server":"67.21.72.38","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_11982","server":"107.167.9.121","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_11983","server":"morton0.herokuapp.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"ad806487-2d26-4636-98b6-ab85cc8521f7","alterId":64,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Pool_🇺🇸US_11984","server":"67.21.72.37","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_11985","server":"198.211.3.154","type":"vmess","country":"🇺🇸US","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_11986","server":"144.34.165.210","type":"vmess","country":"🇺🇸US","port":443,"uuid":"478055cc-fdb8-404e-b730-c32faa2c7ca1","alterId":60,"cipher":"auto","network":"ws","ws-path":"/asdfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Pool_🇺🇸US_11987","server":"67.21.72.44","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_11988","server":"192.74.254.112","type":"vmess","country":"🇺🇸US","port":58719,"uuid":"ae1048eb-a962-48f6-b15f-013d83d0b6c7","alterId":0,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_11989","server":"216.127.187.109","type":"vmess","country":"🇺🇸US","port":12345,"uuid":"b5687c6d-48d7-30e8-ad99-ab2efee968cd","alterId":2,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_11990","server":"216.127.187.109","type":"vmess","country":"🇺🇸US","port":12345,"uuid":"bc74539e-46cd-30a0-b8ba-ef97b0350a62","alterId":2,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_11991","server":"107.173.157.168","type":"vmess","country":"🇺🇸US","port":443,"uuid":"4f6aa0c3-7be1-4eaa-a64c-a23418070422","alterId":6,"cipher":"auto","network":"ws","ws-path":"/b06fde1/","servername":"www.shunxin.ml","ws-headers":{"HOST":"www.shunxin.ml"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_11992","server":"52.ssrj.xyz","type":"vmess","country":"🇺🇸US","port":65152,"uuid":"24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae","alterId":2,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Pool_🇺🇸US_11993","server":"67.21.72.39","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_11994","server":"216.127.187.109","type":"vmess","country":"🇺🇸US","port":12345,"uuid":"fbfa2417-3597-344a-9d50-0030ce14ce63","alterId":2,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_11995","server":"216.127.187.109","type":"vmess","country":"🇺🇸US","port":12345,"uuid":"e5ff0f0d-46e1-3b2f-b642-a394bc8d9904","alterId":2,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_11996","server":"144.34.180.67","type":"vmess","country":"🇺🇸US","port":443,"uuid":"79214731-7f0c-4f2d-a894-13b7df293624","alterId":60,"cipher":"auto","network":"ws","ws-path":"/sadfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🏁ZZ-🇺🇸US_12473","server":"000007.bujidao.org","type":"vmess","country":"🏁ZZ","port":6000,"uuid":"1cb6ea16-6a40-39cc-a47f-0be12cba9aa9","alterId":1,"cipher":"auto","network":"ws","ws-path":"/xiaodao","servername":"bujidao.cccccc.cc","ws-headers":{"HOST":"bujidao.cccccc.cc"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
