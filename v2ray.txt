@@ -1,39 +1,110 @@
-proxies:
-- {"name":"","server":"107.167.9.124","type":"vmess","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"","server":"104.16.160.114","type":"vmess","port":443,"udp":true,"uuid":"5f4b2e42-ff2b-4342-86fc-b7ba1b5361e8","alterId":0,"cipher":"auto","network":"ws","ws-path":"/The-Great-Awakening_vws","ws-headers":{"Host":"vincent-jackson2021.ga"},"http-opts":{},"h2-opts":{},"tls":true}
-- {"name":"","server":"96.43.91.60","type":"vmess","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"","server":"172.67.150.130","type":"vmess","port":80,"udp":true,"uuid":"3d31728e-064d-42b8-b945-f79c008f73fc","alterId":233,"cipher":"auto","network":"ws","ws-path":"/","ws-headers":{"Host":"free-russian01-cdn.xiaohouzi.club"},"http-opts":{},"h2-opts":{}}
-- {"name":"🇦🇺 AU","server":"1.1.1.1","type":"vmess","country":"🇦🇺 AU","port":443,"uuid":"356ed062-4f58-49c3-bd44-c0b6db1c94ee","alterId":0,"cipher":"auto","network":"ws","ws-path":"/stream","servername":"euserv3p.ezddns.tk","ws-headers":{"HOST":"euserv3p.ezddns.tk"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇦🇺AU","server":"xgv2.shmilygoudan.com","type":"vmess","country":"🇦🇺AU","port":80,"uuid":"51d6fdc9-2d23-4202-bce0-9f560fa1b684","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"pull.free.video.10010.com","ws-headers":{"HOST":"pull.free.video.10010.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"tk.shcn2.tkddns.xyz","type":"vmess","country":"🇨🇳 CN","port":22642,"uuid":"98e96c9f-4bb3-39d4-9a2c-fac04257f7c7","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","servername":"zxjp-b.tkong.cc","ws-headers":{"HOST":"zxjp-b.tkong.cc"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇩🇪DE","server":"89.163.224.92","type":"vmess","country":"🇩🇪DE","port":43962,"uuid":"033f5888-886d-4f83-9d28-04bd5996dda0","alterId":0,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"18.167.94.242","type":"vmess","country":"🇭🇰HK","port":80,"uuid":"cec85927-8a7a-4866-df8c-27ed589de0ce","alterId":0,"cipher":"auto","network":"ws","ws-path":"/TS/recharge/tzUrl.html","servername":"pull.free.video.10010.com","ws-headers":{"HOST":"pull.free.video.10010.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"🇮🇱IL","server":"212.80.205.133","type":"vmess","country":"🇮🇱IL","port":31262,"uuid":"00415a68-d5eb-4573-b73e-2b21f6b45c5d","alterId":64,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"a83679f.t2.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"a83679f.re.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"a83679f.th.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"a83679f.ra.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"46.182.107.148","type":"vmess","country":"🇳🇱NL","port":443,"uuid":"1d474f0b-e78d-4af9-bc4a-a467467bc7a7","alterId":64,"cipher":"auto","network":"ws","ws-path":"/footers","servername":"www.73207635.xyz","ws-headers":{"HOST":"www.73207635.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇳🇱NL","server":"132.226.169.93","type":"vmess","country":"🇳🇱NL","port":33254,"uuid":"0453154b-db51-4a66-8f7c-0887878cb9a3","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"","server":"45.140.169.224","type":"vmess","country":"🇷🇺RU","port":52341,"uuid":"3f1079d6-998a-4d1b-98be-a7e9d5f30d07","alterId":0,"cipher":"auto","network":"tcp","ws-path":"t.me/vpnpool","servername":"t.me/vpnhat","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"🇺🇸 US","server":"96.43.91.58","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸 US","server":"usa4a-node.3366test.com","type":"vmess","country":"🇺🇸 US","port":13723,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8634","alterId":10,"cipher":"auto","network":"ws","ws-path":"/ray","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸 US","server":"nn-ssr4.feiclouddd.me","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"79214731-7f0c-4f2d-a894-13b7df293624","alterId":60,"cipher":"auto","network":"ws","ws-path":"/sadfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸 US","server":"hk1opuy-node.3366test.com","type":"vmess","country":"🇺🇸 US","port":13723,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8638","alterId":10,"cipher":"auto","network":"ws","ws-path":"/ray","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸 US","server":"96.43.91.59","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"172.67.153.238","type":"vmess","country":"🇺🇸US","port":443,"uuid":"356ed062-4f58-49c3-bd44-c0b6db1c94ee","alterId":0,"cipher":"auto","network":"ws","ws-path":"/stream","servername":"euserv3p.ezddns.tk","ws-headers":{"HOST":"euserv3p.ezddns.tk"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"149.248.19.78","type":"vmess","country":"🇺🇸US","port":443,"uuid":"79214731-7f0c-4f2d-a894-13b7df293624","alterId":60,"cipher":"auto","network":"ws","ws-path":"/sadfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"67.21.72.43","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"67.21.72.39","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"107.167.9.122","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"","server":"67.21.72.38","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"104.18.207.61","type":"vmess","country":"🇺🇸US","port":443,"uuid":"356ed062-4f58-49c3-bd44-c0b6db1c94ee","alterId":0,"cipher":"auto","network":"ws","ws-path":"/stream","servername":"euserv3p.ezddns.tk","ws-headers":{"HOST":"euserv3p.ezddns.tk"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"107.167.9.121","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"","server":"144.34.180.67","type":"vmess","country":"🇺🇸US","port":443,"uuid":"79214731-7f0c-4f2d-a894-13b7df293624","alterId":60,"cipher":"auto","network":"ws","ws-path":"/sadfasdf","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"morton0.herokuapp.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"ad806487-2d26-4636-98b6-ab85cc8521f7","alterId":64,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"","server":"67.21.72.34","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"free-russian01-cdn.xiaohouzi.club","type":"vmess","country":"🇺🇸US","port":80,"uuid":"3d31728e-064d-42b8-b945-f79c008f73fc","alterId":233,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"198.211.3.154","type":"vmess","country":"🇺🇸US","port":443,"uuid":"3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.45218443.xyz","ws-headers":{"HOST":"www.45218443.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"107.173.157.168","type":"vmess","country":"🇺🇸US","port":443,"uuid":"4f6aa0c3-7be1-4eaa-a64c-a23418070422","alterId":6,"cipher":"auto","network":"ws","ws-path":"/b06fde1/","servername":"www.shunxin.ml","ws-headers":{"HOST":"www.shunxin.ml"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🇺🇸US","server":"67.21.72.37","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/310910211916","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"🏁ZZ","server":"000007.bujidao.org","type":"vmess","country":"🏁ZZ","port":6000,"uuid":"1cb6ea16-6a40-39cc-a47f-0be12cba9aa9","alterId":1,"cipher":"auto","network":"ws","ws-path":"/xiaodao","servername":"bujidao.cccccc.cc","ws-headers":{"HOST":"bujidao.cccccc.cc"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta http-equiv="refresh" content="0">
+
+<title>etproxypool.ga | 522: Connection timed out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">522</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 691d183e0b96c540 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-09-20 18:25:39 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Connection timed out</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">Chicago</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">etproxypool.ga</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
+      <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171906-Error-522">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">691d183e0b96c540</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 40.122.158.199</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+

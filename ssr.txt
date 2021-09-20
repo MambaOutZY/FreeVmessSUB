@@ -1,22 +1,24 @@
 proxies:
-- {"name":"","server":"ssr4.ssrsub.one","type":"ssr","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"","server":"ssr3.ssrsub.one","type":"ssr","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"","server":"ssr2.ssrsub.one","type":"ssr","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"","server":"ssr1.ssrsub.one","type":"ssr","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇦🇺 AU","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇦🇺AU","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
-- {"name":"🇨🇦 CA","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇨🇦CA","server":"ssr1.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇨🇦CA","server":"ssr2.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"","server":"45.62.231.50","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇨🇦CA","server":"45.62.231.225","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"","server":"ssr4.ssrsub.one","type":"ssr","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"","server":"45.62.231.50","type":"ssr","country":"🇨🇦CA","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇨🇦CA","server":"45.62.231.225","type":"ssr","country":"🇨🇦CA","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇨🇦CA","server":"45.62.231.225","type":"ssr","country":"🇨🇦CA","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"45.62.231.50","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
 - {"name":"","server":"45.62.231.50","type":"ssr","country":"🇨🇦CA","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"","server":"45.62.231.50","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇨🇦CA","server":"45.62.231.225","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"","server":"ssr3.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
 - {"name":"","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":22478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇩🇪DE","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
-- {"name":"","server":"107.148.240.137","type":"ssr","country":"🇺🇸US","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"ssr3.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":28139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"","server":"117.28.243.171","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"n37.boom.party","type":"ssr","country":"🇨🇳CN","port":33300,"password":"Uk92CS","cipher":"aes-256-cfb","protocol":"auth_aes128_sha1","protocol-param":"254637:Ol4zZv","obfs":"http_simple","obfs-param":"download.windowsupdate.com"}
+- {"name":"","server":"p7.22332e.com","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"117.28.243.187","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"","server":"117.28.243.187","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","protocol-param":"t.me/SSRSUB7","obfs":"plain"}
+- {"name":"","server":"ntemp02.boom.party","type":"ssr","country":"🇨🇳CN","port":11000,"password":"Uk92CS","cipher":"aes-256-cfb","protocol":"auth_aes128_sha1","protocol-param":"44119:QwctEr","obfs":"http_simple","obfs-param":"download.windowsupdate.com"}
+- {"name":"","server":"p5.22332e.com","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"","server":"117.28.243.187","type":"ssr","country":"🇨🇳CN","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"","server":"136.243.191.85","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
+- {"name":"","server":"45.77.25.146","type":"ssr","country":"🇯🇵 JP","port":2019,"password":"Life!sAwesome","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"59.125.11.158","type":"ssr","country":"🇹🇼TW","port":8158,"password":"passinfo123","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
+- {"name":"","server":"59.125.11.158","type":"ssr","country":"🇹🇼TW","port":8158,"password":"passinfo123","cipher":"rc4-md5","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
