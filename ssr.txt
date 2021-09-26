@@ -1,7 +1,5 @@
 proxies:
-- {"name":"Relay_-🇨🇦CA_1277","server":"ssr4.ssrsub.com","type":"ssr","port":42478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇦🇺 AU_1567","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇦🇺AU_2127","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
-- {"name":"Relay_🇨🇦 CA-🇨🇦CA_2577","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇨🇦CA_2655","server":"ssr4.ssrsub.com","type":"ssr","country":"🇨🇦CA","port":42478,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇩🇪DE_3659","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇦🇺 AU_1561","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺AU_2128","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_2574","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇩🇪DE_3768","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
