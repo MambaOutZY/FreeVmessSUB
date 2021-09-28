@@ -1,9 +1,6 @@
 proxies:
-- {"name":"🇦🇺 AU_1556","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇦🇺AU_2124","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
-- {"name":"Relay_🇨🇦 CA-🇨🇦CA_2575","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇨🇦CA_2656","server":"45.62.230.243","type":"ssr","country":"🇨🇦CA","port":38139,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇩🇪DE_3699","server":"136.243.191.85","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
-- {"name":"🇩🇪DE_3700","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
-- {"name":"Relay_🇺🇸 US-🇺🇸US_9384","server":"ss.relaybit.top","type":"ssr","country":"🇺🇸 US","port":11394,"password":"a02660","cipher":"aes-256-cfb","protocol":"origin","obfs":"http_simple"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_11329","server":"68.183.250.212","type":"ssr","country":"🇺🇸US","port":11394,"password":"a02660","cipher":"aes-256-cfb","protocol":"origin","obfs":"http_simple"}
+- {"name":"🇦🇺 AU_1555","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺AU_2122","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_2583","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇩🇪DE_3697","server":"136.243.191.85","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇩🇪DE_3698","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
