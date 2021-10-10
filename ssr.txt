@@ -1,4 +1,10 @@
 proxies:
-- {"name":"🇦🇺 AU_167","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"Relay_🇨🇦 CA-🇨🇦CA_330","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇩🇪DE_1052","server":"136.243.191.85","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
+- {"name":"_545","server":"89.223.71.189","type":"ssr","port":4066,"password":"e1ace932336e3e0f","cipher":"chacha20-ietf","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺 AU_607","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_736","server":"ssr2.ssrsub.com","type":"ssr","country":"🇨🇦 CA","port":38149,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_737","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_738","server":"ssr1.ssrsub.com","type":"ssr","country":"🇨🇦 CA","port":42471,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇨🇦CA_748","server":"ssr1.ssrsub.com","type":"ssr","country":"🇨🇦CA","port":42471,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"Relay_🇨🇦CA-🇨🇦CA_749","server":"ssr2.ssrsub.com","type":"ssr","country":"🇨🇦CA","port":38149,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"🇺🇸US_2552","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸US_2553","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
