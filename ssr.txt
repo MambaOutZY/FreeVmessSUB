@@ -1,6 +1,4 @@
 proxies:
-- {"name":"_49","server":"89.223.71.189","type":"ssr","port":4066,"password":"e1ace932336e3e0f","cipher":"chacha20-ietf","protocol":"origin","obfs":"plain"}
-- {"name":"🇦🇺 AU_129","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇺🇸 US_2155","server":"45.77.73.146","type":"ssr","country":"🇺🇸 US","port":2019,"password":"Life!sAwesome","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇺🇸US_2925","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇺🇸US_2926","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"🇦🇺 AU_660","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇩🇪DE_2550","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇩🇪DE_2551","server":"136.243.191.85","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
