@@ -1,6 +1,7 @@
 proxies:
-- {"name":"_154","server":"89.223.71.189","type":"ssr","port":4066,"password":"e1ace932336e3e0f","cipher":"chacha20-ietf","protocol":"origin","obfs":"plain"}
-- {"name":"🇦🇺 AU_232","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"Relay_🇨🇦 CA-🇨🇦CA_276","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇺🇸US_2345","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇺🇸US_2346","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺 AU_86","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺AU_87","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_94","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸US_258","server":"207.246.64.166","type":"ssr","country":"🇺🇸US","port":2019,"password":"Life!sAwesome","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸US_259","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"🇺🇸US_260","server":"65.49.193.120","type":"ssr","country":"🇺🇸US","port":502,"password":"bwhskrskr01","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
