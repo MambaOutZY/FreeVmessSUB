@@ -1,9 +1,5 @@
 proxies:
-- {"name":"Relay_-🇷🇺RU_125","server":"t5.ssrsub.com","type":"trojan","port":8443,"password":"360ecd87-72e8-4706-b252-79d0d0cfe6aa","sni":"t5.ssrsub.com","udp":true}
-- {"name":"Relay_-🇺🇸US_126","server":"t2.ssrsub.com","type":"trojan","port":8443,"password":"721c60a2-86a4-44c6-8f82-8fc80f6ad8ab","sni":"t2.ssrsub.com","udp":true}
-- {"name":"Relay_-🇨🇦CA_127","server":"t9.ssrsub.com","type":"trojan","port":8443,"password":"721c60a2-86a4-44c6-8f82-8fc80f6ad8ab","sni":"t9.ssrsub.com","udp":true}
-- {"name":"Relay_-🇺🇸US_128","server":"t2.ssrsub.com","type":"trojan","port":8443,"password":"360ecd87-72e8-4706-b252-79d0d0cfe6aa","sni":"t2.ssrsub.com","udp":true}
-- {"name":"Relay_-🇷🇺RU_129","server":"t7.ssrsub.com","type":"trojan","port":8443,"password":"360ecd87-72e8-4706-b252-79d0d0cfe6aa","sni":"t7.ssrsub.com","udp":true}
-- {"name":"Relay_-🇨🇦CA_130","server":"t9.ssrsub.com","type":"trojan","port":8443,"password":"360ecd87-72e8-4706-b252-79d0d0cfe6aa","sni":"t9.ssrsub.com","udp":true}
-- {"name":"Relay_-🇷🇺RU_131","server":"t5.ssrsub.com","type":"trojan","port":8443,"password":"721c60a2-86a4-44c6-8f82-8fc80f6ad8ab","sni":"t5.ssrsub.com","udp":true}
-- {"name":"🇰🇷KR_942","server":"52.231.176.18","type":"trojan","country":"🇰🇷KR","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇭🇰HK_956","server":"52.184.9.121","type":"trojan","country":"🇭🇰HK","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_1144","server":"89.31.127.151","type":"trojan","country":"🇳🇱NL","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_1145","server":"178.62.201.120","type":"trojan","country":"🇳🇱NL","port":4443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_1196","server":"13.229.132.52","type":"trojan","country":"🇸🇬SG","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
