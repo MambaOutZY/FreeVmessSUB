@@ -1,4 +1,2 @@
 proxies:
-- {"name":"Relay_-🇺🇸US_107","server":"t6.ssrsub.com","type":"trojan","port":8443,"password":"360ecd87-72e8-4706-b252-79d0d0cfe6aa","sni":"t6.ssrsub.com","udp":true}
-- {"name":"Relay_-🇺🇸US_108","server":"t6.ssrsub.com","type":"trojan","port":8443,"password":"721c60a2-86a4-44c6-8f82-8fc80f6ad8ab","sni":"t6.ssrsub.com","udp":true}
-- {"name":"🇨🇭CH_456","server":"185.126.116.235","type":"trojan","country":"🇨🇭CH","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇷🇺RU_1153","server":"185.135.81.172","type":"trojan","country":"🇷🇺RU","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
