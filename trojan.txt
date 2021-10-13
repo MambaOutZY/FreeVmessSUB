@@ -1,16 +1,10 @@
 proxies:
-- {"name":"🇦🇺AU_203","server":"194.195.124.174","type":"trojan","country":"🇦🇺AU","port":4443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
-- {"name":"🇩🇪DE_829","server":"5.183.179.138","type":"trojan","country":"🇩🇪DE","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"🇬🇧GB_962","server":"138.68.179.78","type":"trojan","country":"🇬🇧GB","port":1443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
-- {"name":"🇬🇧GB_963","server":"185.105.191.92","type":"trojan","country":"🇬🇧GB","port":443,"password":"28d98f761aca9d636f44db62544628eb","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_1005","server":"62.216.92.179","type":"trojan","country":"🇭🇰HK","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_1006","server":"hk-server-02.selfupay.com","type":"trojan","country":"🇭🇰HK","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"Relay_🇭🇰HK-🇷🇴RO_1007","server":"hk-server-02.selfupay.com","type":"trojan","country":"🇭🇰HK","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_1008","server":"62.216.92.179","type":"trojan","country":"🇭🇰HK","port":443,"password":"28d98f761aca9d636f44db62544628eb","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_1009","server":"62.216.92.180","type":"trojan","country":"🇭🇰HK","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_1010","server":"62.216.92.180","type":"trojan","country":"🇭🇰HK","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_1011","server":"62.216.92.180","type":"trojan","country":"🇭🇰HK","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
-- {"name":"🇸🇬SG_1271","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"Relay_🇸🇬SG-🇺🇸US_1272","server":"sg-server-01.selfupay.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
-- {"name":"🇸🇬SG_1273","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"🇸🇬SG_1274","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🇷🇺RU_130","server":"t4.ssrsub.com","type":"trojan","port":8443,"password":"360ecd87-72e8-4706-b252-79d0d0cfe6aa","sni":"t4.ssrsub.com","udp":true}
+- {"name":"🇳🇱NL_1031","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_🇸🇬SG-🇺🇸US_1159","server":"sg-server-01.selfupay.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1760","server":"72.167.45.6","type":"trojan","country":"🇺🇸US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1761","server":"72.167.45.6","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1762","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1763","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1764","server":"72.167.45.6","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1765","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
