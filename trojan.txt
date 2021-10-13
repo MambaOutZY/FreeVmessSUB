@@ -1,8 +1,3 @@
 proxies:
-- {"name":"🇩🇪DE_587","server":"139.59.209.152","type":"trojan","country":"🇩🇪DE","port":4443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
-- {"name":"🇳🇱NL_873","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
-- {"name":"🇳🇱NL_874","server":"178.62.201.120","type":"trojan","country":"🇳🇱NL","port":4443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
-- {"name":"🇳🇱NL_875","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"🇳🇱NL_876","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"🇸🇬SG_971","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇸🇬SG_972","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇬🇧GB_855","server":"185.105.191.92","type":"trojan","country":"🇬🇧GB","port":443,"password":"28d98f761aca9d636f44db62544628eb","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_979","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}

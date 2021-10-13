@@ -1,2 +1,4 @@
 proxies:
-- {"name":"🇦🇺 AU_65","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺 AU_136","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_224","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇺🇸US_1550","server":"207.246.64.166","type":"ssr","country":"🇺🇸US","port":2019,"password":"Life!sAwesome","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
