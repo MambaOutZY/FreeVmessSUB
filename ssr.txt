@@ -1,6 +1,3 @@
 proxies:
-- {"name":"🇦🇺 AU_163","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"Relay_🇨🇦 CA-🇨🇦CA_256","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"Relay_🇨🇦 CA-🇨🇦CA_257","server":"ssr1.ssrsub.com","type":"ssr","country":"🇨🇦 CA","port":42471,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"Relay_🇨🇦 CA-🇨🇦CA_258","server":"ssr2.ssrsub.com","type":"ssr","country":"🇨🇦 CA","port":38149,"password":"suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_269","server":"ssr1.ssrsub.com","type":"ssr","country":"🇨🇦CA","port":42471,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"🇦🇺 AU_100","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_122","server":"channel.napsternetvtm.dnsmy.xyz","type":"ssr","country":"🇨🇦 CA","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
