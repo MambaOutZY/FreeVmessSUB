@@ -1,6 +1,23 @@
 proxies:
-- {"name":"🇨🇦 CA_188","server":"t10.ssrsub.com","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
-- {"name":"🇨🇦 CA_189","server":"t10.ssrsub.com","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
-- {"name":"🇸🇬SG_1121","server":"13.229.132.52","type":"trojan","country":"🇸🇬SG","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_1670","server":"98.126.213.16","type":"trojan","country":"🇺🇸US","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_1671","server":"98.126.213.18","type":"trojan","country":"🇺🇸US","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🇺🇸US_84","server":"t2.ssrsub.com","type":"trojan","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","sni":"t2.ssrsub.com","udp":true}
+- {"name":"_85","server":"t1.ssrsub.com","type":"trojan","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","sni":"t1.ssrsub.com","udp":true}
+- {"name":"_86","server":"t6.ssrsub.com","type":"trojan","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","sni":"t6.ssrsub.com","udp":true}
+- {"name":"🇨🇦 CA_241","server":"t10.ssrsub.com","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
+- {"name":"🇨🇦 CA_242","server":"t9.ssrsub.com","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
+- {"name":"🇨🇦 CA_243","server":"t10.ssrsub.com","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
+- {"name":"🇨🇦CA_291","server":"t9.ssrsub.com","type":"trojan","country":"🇨🇦CA","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
+- {"name":"🇩🇪DE_720","server":"5.183.179.138","type":"trojan","country":"🇩🇪DE","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇩🇪DE_721","server":"139.59.209.152","type":"trojan","country":"🇩🇪DE","port":4443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_995","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_996","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_997","server":"178.62.201.120","type":"trojan","country":"🇳🇱NL","port":4443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_998","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇷🇺 RU_1067","server":"t4.ssrsub.com","type":"trojan","country":"🇷🇺 RU","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
+- {"name":"🇷🇺 RU_1068","server":"t4.ssrsub.com","type":"trojan","country":"🇷🇺 RU","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_1085","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_1086","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_1087","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_🇸🇬SG-🇺🇸US_1088","server":"sg-server-01.selfupay.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_1206","server":"t2.ssrsub.com","type":"trojan","country":"🇺🇸 US","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_1207","server":"t6.ssrsub.com","type":"trojan","country":"🇺🇸 US","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1542","server":"t1.ssrsub.com","type":"trojan","country":"🇺🇸US","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
