@@ -1,2 +1,5 @@
 proxies:
-- {"name":"🇦🇺 AU_165","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺 AU_86","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇦🇺AU_94","server":"45.77.48.44","type":"ssr","country":"🇦🇺AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"🇩🇪DE_895","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇩🇪DE_896","server":"136.243.191.85","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
