@@ -1,4 +1,9 @@
 proxies:
-- {"name":"🇧🇷BR_271","server":"170.81.43.148","type":"trojan","country":"🇧🇷BR","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇮🇳IN_959","server":"52.66.54.49","type":"trojan","country":"🇮🇳IN","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇸🇬SG_1222","server":"13.229.132.52","type":"trojan","country":"🇸🇬SG","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🇺🇸US_154","server":"t6.ssrsub.com","type":"trojan","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","sni":"t6.ssrsub.com","udp":true}
+- {"name":"Relay_-🇷🇺RU_155","server":"t5.ssrsub.com","type":"trojan","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","sni":"t5.ssrsub.com","udp":true}
+- {"name":"Relay_🇨🇦 CA-🇨🇦CA_261","server":"t10.ssrsub.com","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_🇷🇺 RU-🇷🇺RU_947","server":"t3.ssrsub.com","type":"trojan","country":"🇷🇺 RU","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_🇷🇺 RU-🇷🇺RU_948","server":"t5.ssrsub.com","type":"trojan","country":"🇷🇺 RU","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
+- {"name":"🇷🇺RU_956","server":"t3.ssrsub.com","type":"trojan","country":"🇷🇺RU","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_964","server":"13.229.132.52","type":"trojan","country":"🇸🇬SG","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_1138","server":"t6.ssrsub.com","type":"trojan","country":"🇺🇸 US","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
