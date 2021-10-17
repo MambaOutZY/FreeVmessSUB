@@ -1,5 +1,7 @@
 proxies:
-- {"name":"🇰🇷KR_1003","server":"52.231.176.18","type":"trojan","country":"🇰🇷KR","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇳🇱NL_1084","server":"89.31.127.151","type":"trojan","country":"🇳🇱NL","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"🇳🇱NL_1085","server":"89.31.127.151","type":"trojan","country":"🇳🇱NL","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"Relay_🇳🇱NL-🇳🇱NL_1086","server":"ned-server-01.selfupay.com","type":"trojan","country":"🇳🇱NL","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","sni":"ned-server-01.selfupay.com","skip-cert-verify":true,"udp":true}
+- {"name":"🇬🇧GB_568","server":"3.9.180.176","type":"trojan","country":"🇬🇧GB","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_🇸🇬SG-🇺🇸US_756","server":"sg-server-01.selfupay.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_757","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_758","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_🇸🇬SG-🇺🇸US_759","server":"sg-server-01.selfupay.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_760","server":"184.168.127.50","type":"trojan","country":"🇸🇬SG","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
