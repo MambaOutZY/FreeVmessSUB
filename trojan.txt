@@ -1,5 +1,5 @@
 proxies:
-- {"name":"🇨🇦CA_274","server":"139.177.197.51","type":"trojan","country":"🇨🇦CA","port":1443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
-- {"name":"🇨🇭CH_522","server":"185.126.116.235","type":"trojan","country":"🇨🇭CH","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇬🇧GB_743","server":"109.74.194.189","type":"trojan","country":"🇬🇧GB","port":1443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_769","server":"62.216.92.180","type":"trojan","country":"🇭🇰HK","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇨🇭CH_355","server":"185.126.116.235","type":"trojan","country":"🇨🇭CH","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇬🇧GB_645","server":"109.74.194.189","type":"trojan","country":"🇬🇧GB","port":1443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
+- {"name":"🇬🇧GB_646","server":"3.9.180.176","type":"trojan","country":"🇬🇧GB","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1361","server":"174.139.126.233","type":"trojan","country":"🇺🇸US","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
