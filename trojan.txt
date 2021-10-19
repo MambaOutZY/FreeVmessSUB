@@ -1,2 +1,2 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"Relay_-🇳🇱NL_160","server":"nlt-1.opensvr.net","type":"trojan","port":443,"password":"opentunnel.net-jhhjgvj","sni":"nlt-1.opensvr.net"}
