@@ -1,3 +1,5 @@
 proxies:
-- {"name":"Relay_🇺🇸US-🇺🇸US_1155","server":"usa-server-02.selfupay.com","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"Relay_🇺🇸US-🇺🇸US_1156","server":"usa-server-02.selfupay.com","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🇫🇷FR_82","server":"fr-trojan.bonds.id","type":"trojan","port":443,"password":"58d40880-2fc6-11ec-81dd-1239d0255272"}
+- {"name":"🇬🇧GB_715","server":"185.105.191.92","type":"trojan","country":"🇬🇧GB","port":443,"password":"28d98f761aca9d636f44db62544628eb","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇷🇺RU_1005","server":"46.17.44.36","type":"trojan","country":"🇷🇺RU","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_1439","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
