@@ -1,8 +1,2 @@
 proxies:
-- {"name":"","server":"t1.ssrsub.com","type":"trojan","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","sni":"t1.ssrsub.com","udp":true}
-- {"name":"","server":"3.hk.zz.xxxxx.x-t-fuckword.network","type":"trojan","country":"🇨🇳CN","port":36681,"password":"5f97472b-b910-32fd-bbd2-403f0c6c5ae0","skip-cert-verify":true,"udp":true}
-- {"name":"","server":"2.jp.zz.xxxxx.x-t-fuckword.network","type":"trojan","country":"🇨🇳CN","port":36671,"password":"5f97472b-b910-32fd-bbd2-403f0c6c5ae0","skip-cert-verify":true,"udp":true}
-- {"name":"","server":"gb1.v2.zz.cn.fuckword.club","type":"trojan","country":"🇨🇳CN","port":47836,"password":"5f97472b-b910-32fd-bbd2-403f0c6c5ae0","skip-cert-verify":true,"udp":true}
-- {"name":"","server":"t3.ssrsub.com","type":"trojan","country":"🇷🇺 RU","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
-- {"name":"","server":"t3.ssrsub.com","type":"trojan","country":"🇷🇺RU","port":8443,"password":"9f665f12-29a2-4ff7-a456-c41f9443e8a7","skip-cert-verify":true,"udp":true}
-- {"name":"","server":"t1.ssrsub.com","type":"trojan","country":"🇺🇸US","port":8443,"password":"6270e596-dfa0-48a3-aad0-613ce89724b4","skip-cert-verify":true,"udp":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
