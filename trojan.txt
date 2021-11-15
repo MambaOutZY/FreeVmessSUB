@@ -1,2 +1,5 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"Relay_-🇷🇺RU_07","server":"t4.ssrsub.com","type":"trojan","port":1033,"password":"e54a480c-77e3-41ca-8f8b-17ffb50dbd08","sni":"t4.ssrsub.com","udp":true}
+- {"name":"Relay_-🇷🇺RU_08","server":"t4.ssrsub.com","type":"trojan","port":1033,"password":"92a95e6d-cf89-42ee-8110-66fab6871e2f","sni":"t4.ssrsub.com","udp":true}
+- {"name":"Relay_🇳🇱NL-🇳🇱NL_308","server":"ned-server-01.selfupay.com","type":"trojan","country":"🇳🇱NL","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇳🇱NL_309","server":"89.31.127.151","type":"trojan","country":"🇳🇱NL","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
