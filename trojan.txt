@@ -1,4 +1,2 @@
 proxies:
-- {"name":"🇨🇭CH_244","server":"185.126.116.235","type":"trojan","country":"🇨🇭CH","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"🇨🇭CH_245","server":"185.126.116.235","type":"trojan","country":"🇨🇭CH","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇬🇧GB_330","server":"3.9.180.176","type":"trojan","country":"🇬🇧GB","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"_35","server":"t6.ssrsub.com","type":"trojan","port":1033,"password":"e54a480c-77e3-41ca-8f8b-17ffb50dbd08","sni":"t6.ssrsub.com","udp":true}
