@@ -1,4 +1,2 @@
 proxies:
-- {"name":"🇦🇺 AU_72","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇺🇸US_499","server":"113.wgong.xyz","type":"ssr","country":"🇺🇸US","port":52213,"password":"MfKymR","cipher":"rc4-md5","protocol":"auth_aes128_sha1","protocol-param":"175212:f272qi","obfs":"plain","obfs-param":"t.me/vpnhat"}
-- {"name":"🇺🇸US_500","server":"112.wgong.xyz","type":"ssr","country":"🇺🇸US","port":52212,"password":"MfKymR","cipher":"rc4-md5","protocol":"auth_aes128_sha1","protocol-param":"175212:f272qi","obfs":"plain","obfs-param":"t.me/vpnhat"}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
