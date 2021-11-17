@@ -1,2 +1,2 @@
 proxies:
-- {"name":"🇺🇸US_387","server":"162.14.11.7","type":"ssr","country":"🇺🇸US","port":21761,"password":"Xkfb6t","cipher":"rc4-md5","protocol":"origin","protocol-param":"t.me/vpnhat","obfs":"http_simple","obfs-param":"t.me/vpnpool"}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
