@@ -1,3 +1,2 @@
 proxies:
-- {"name":"🇦🇺 AU_37","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇺🇸US_345","server":"162.14.11.7","type":"ssr","country":"🇺🇸US","port":21761,"password":"Xkfb6t","cipher":"rc4-md5","protocol":"origin","protocol-param":"t.me/vpnhat","obfs":"http_simple","obfs-param":"t.me/vpnpool"}
+- {"name":"🇦🇺 AU_42","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
