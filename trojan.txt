@@ -1,3 +1,2 @@
 proxies:
-- {"name":"🇬🇧GB_185","server":"185.105.191.92","type":"trojan","country":"🇬🇧GB","port":443,"password":"28d98f761aca9d636f44db62544628eb","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
-- {"name":"🇳🇱NL_212","server":"185.171.120.144","type":"trojan","country":"🇳🇱NL","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
