@@ -1,2 +1,2 @@
 proxies:
-- {"name":"🇺🇸 US_329","server":"173.82.240.245","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"9a297bb1-06e3-4e6f-97fa-3d3202d46596","alterId":2,"cipher":"auto","network":"ws","ws-path":"/84c3f/","servername":"cc.hciahciphcie.club","ws-headers":{"HOST":"cc.hciahciphcie.club"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
