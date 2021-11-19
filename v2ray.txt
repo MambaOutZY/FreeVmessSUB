@@ -1,2 +1,5 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"Relay_-🇷🇺RU_60","server":"v4.ssrsub.com","type":"vmess","port":168,"udp":true,"uuid":"92a95e6d-cf89-42ee-8110-66fab6871e2f","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ssrsub","ws-headers":{"Host":"v4.ssrsub.com"},"http-opts":{},"h2-opts":{},"tls":true}
+- {"name":"🇺🇸US_299","server":"usdsl.52jjyun.top","type":"vmess","country":"🇺🇸US","port":80,"uuid":"9b72e4cb-7888-4b36-ac2a-3d3c80c5c005","alterId":10,"cipher":"auto","network":"ws","ws-path":"/jjyun","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_300","server":"149.248.11.253","type":"vmess","country":"🇺🇸US","port":44963,"uuid":"51a34956-4867-11ec-abf9-560003b0214a","alterId":0,"cipher":"auto","network":"ws","ws-path":"/lnPFjTta/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_301","server":"143.198.237.214","type":"vmess","country":"🇺🇸US","port":27489,"uuid":"d73f027b-9a37-4e79-dd29-3a0d1e1da128","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
