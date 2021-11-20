@@ -1,2 +1,2 @@
 proxies:
-- {"name":"_53","server":"t2.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t2.ssrsub.com","udp":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
