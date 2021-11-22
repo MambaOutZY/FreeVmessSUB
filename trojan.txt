@@ -1,3 +1,13 @@
 proxies:
-- {"name":"_27","server":"gy.b2.nkeo.top","type":"trojan","port":45122,"password":"1079739e-fa18-437f-b818-1f3a04fd9911","skip-cert-verify":true,"udp":true}
-- {"name":"🇧🇷BR_35","server":"170.81.43.148","type":"trojan","country":"🇧🇷BR","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"_16","server":"gy.b2.nkeo.top","type":"trojan","port":45122,"password":"1079739e-fa18-437f-b818-1f3a04fd9911","skip-cert-verify":true,"udp":true}
+- {"name":"_17","server":"t8.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t8.ssrsub.com","udp":true}
+- {"name":"_18","server":"t1.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t1.ssrsub.com","udp":true}
+- {"name":"Relay_-🇷🇺RU_19","server":"t1.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t1.ssrsub.com","udp":true}
+- {"name":"_20","server":"t2.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t2.ssrsub.com","udp":true}
+- {"name":"Relay_-🇷🇺RU_21","server":"t5.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t5.ssrsub.com","udp":true}
+- {"name":"_22","server":"t2.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t2.ssrsub.com","udp":true}
+- {"name":"Relay_-🇨🇦CA_23","server":"t6.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t6.ssrsub.com","udp":true}
+- {"name":"_24","server":"t7.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t7.ssrsub.com","udp":true}
+- {"name":"Relay_-🇺🇸US_25","server":"azhk.alink123.com","type":"trojan","port":11045,"password":"765040cb-15f4-43da-9e07-4b92c767d222","sni":"azhk.alink123.com"}
+- {"name":"Relay_🇺🇸US-🇺🇸US_272","server":"usa-server-02.selfupay.com","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸US_273","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
