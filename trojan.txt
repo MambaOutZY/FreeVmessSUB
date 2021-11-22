@@ -1,2 +1,3 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"_27","server":"gy.b2.nkeo.top","type":"trojan","port":45122,"password":"1079739e-fa18-437f-b818-1f3a04fd9911","skip-cert-verify":true,"udp":true}
+- {"name":"🇧🇷BR_35","server":"170.81.43.148","type":"trojan","country":"🇧🇷BR","port":443,"password":"18e513fe-f7f4-353d-84ca-bc9646fb2528mielink","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
