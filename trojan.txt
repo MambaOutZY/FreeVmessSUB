@@ -1,3 +1,3 @@
 proxies:
-- {"name":"🇭🇰HK_09","server":"62.216.92.180","type":"trojan","country":"🇭🇰HK","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"🇭🇰HK_10","server":"62.216.92.179","type":"trojan","country":"🇭🇰HK","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🇷🇺RU_03","server":"t5.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t5.ssrsub.com","udp":true}
+- {"name":"Relay_-🇷🇺RU_04","server":"t5.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t5.ssrsub.com","udp":true}
