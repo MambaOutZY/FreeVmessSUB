@@ -1,2 +1,3 @@
 proxies:
-- {"name":"Relay_🇺🇸US-🇺🇸US_13","server":"az0708-b.zc20200426.club","type":"vmess","country":"🇺🇸US","port":40000,"uuid":"ab6e388b-3b1b-39b6-8b5c-9074224a9b48","alterId":2,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇳🇱NL-🇺🇸US_35","server":"kr3.futi.online","type":"vmess","country":"🇳🇱NL","port":2053,"uuid":"0cab950b-4c7b-4215-836f-c7d46f447eb1","alterId":1,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸US_36","server":"143.198.205.67","type":"vmess","country":"🇺🇸US","port":80,"uuid":"69a758d2-542a-402e-8ed2-0e341836eb37","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
