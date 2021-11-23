@@ -1,3 +1,2 @@
 proxies:
-- {"name":"🇺🇸 US_19","server":"47.242.3.85","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"f6769679-3960-33d4-a91e-35a04bc190de","alterId":1,"cipher":"auto","network":"ws","ws-path":"/panel","servername":"s224.snode.xyz","ws-headers":{"HOST":"s224.snode.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"Relay_🏁ZZ-🇺🇸US_22","server":"cm.cf.cname.club","type":"vmess","country":"🏁ZZ","port":2052,"uuid":"6e902fde-dcb1-4d5a-9079-8c086d867954","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"us.cname.club","ws-headers":{"HOST":"us.cname.club"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇸🇬SG_17","server":"139.59.254.17","type":"vmess","country":"🇸🇬SG","port":12081,"uuid":"39f1943b-282e-44a4-9f56-5d59107d919e","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
