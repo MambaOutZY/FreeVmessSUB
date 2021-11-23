@@ -1,2 +1,4 @@
 proxies:
-- {"name":"Relay_-🇸🇬SG_02","server":"ycgyg.com","type":"vmess","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","ws-headers":{"Host":"ycgyg.com"},"http-opts":{},"h2-opts":{},"tls":true}
+- {"name":"Relay_🇭🇰 HK-🇭🇰HK_18","server":"hkbn-home-a.zc20200426.club","type":"vmess","country":"🇭🇰 HK","port":40000,"uuid":"ab6e388b-3b1b-39b6-8b5c-9074224a9b48","alterId":2,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_23","server":"107.175.178.104","type":"vmess","country":"🇺🇸 US","port":20924,"uuid":"6d03792c-c475-41d9-bd44-a222cd7b0884","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"107.175.178.104","ws-headers":{"HOST":"107.175.178.104"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸US_27","server":"165.232.167.127","type":"vmess","country":"🇺🇸US","port":80,"uuid":"029fed97-b5b8-4fed-a66b-23db2ba25fdc","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
