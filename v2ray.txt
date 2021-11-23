@@ -1,3 +1,2 @@
 proxies:
-- {"name":"Relay_-🇸🇬SG_19","server":"jp-tokyo-node2.ycgyg.com","type":"vmess","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","ws-headers":{"Host":"jp-tokyo-node2.ycgyg.com"},"http-opts":{},"h2-opts":{},"tls":true}
-- {"name":"🇺🇸 US_34","server":"107.189.12.75","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"261aeb5f-b6f7-359c-a321-9794bf344e12","alterId":2,"cipher":"auto","network":"ws","ws-path":"/v2ray","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_-🇸🇬SG_02","server":"ycgyg.com","type":"vmess","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","ws-headers":{"Host":"ycgyg.com"},"http-opts":{},"h2-opts":{},"tls":true}
