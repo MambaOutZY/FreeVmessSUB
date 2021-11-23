@@ -1,6 +1,5 @@
 proxies:
-- {"name":"🇺🇸US_10","server":"72.167.45.6","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_11","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_12","server":"72.167.45.6","type":"trojan","country":"🇺🇸US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_13","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_14","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🏁ZZ_20","server":"gy.b2.nkeo.top","type":"trojan","port":45122,"password":"1079739e-fa18-437f-b818-1f3a04fd9911","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🇷🇺RU_21","server":"t5.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t5.ssrsub.com","udp":true}
+- {"name":"Relay_-🇺🇸US_22","server":"t2.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t2.ssrsub.com","udp":true}
+- {"name":"Relay_-🇺🇸US_23","server":"t8.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t8.ssrsub.com","udp":true}
