@@ -1,2 +1,2 @@
 proxies:
-- {"name":"🇺🇸 US_18","server":"107.189.12.75","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"261aeb5f-b6f7-359c-a321-9794bf344e12","alterId":2,"cipher":"auto","network":"ws","ws-path":"/v2ray","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_16","server":"sg.idvpn.me","type":"vmess","country":"🇺🇸US","port":8443,"uuid":"c74e2d99-6fbd-4e87-dc25-c05348571ef1","alterId":0,"cipher":"auto","network":"ws","ws-path":"HTTPS://T.ME/NGE_GASSS•HTTPS://T.ME/DUNIAVPN","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
