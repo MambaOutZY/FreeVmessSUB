@@ -1,2 +1,4 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"Relay_🇭🇰HK-🇭🇰HK_24","server":"hkt.nkeo.top","type":"vmess","country":"🇭🇰HK","port":48691,"uuid":"029fed97-b5b8-4fed-a66b-23db2ba25fdc","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_28","server":"152.70.240.201","type":"vmess","country":"🇺🇸 US","port":43645,"uuid":"7a44d386-e7eb-41d4-92ce-ffbfb32b7957","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🏁ZZ_36","server":"104.17.62.78","type":"vmess","country":"🏁ZZ","port":443,"uuid":"4d88f6a2-aaa9-42b6-afc4-227f89974119","alterId":0,"cipher":"auto","network":"ws","ws-path":"/The-Great-Awakening_vws","servername":"vincent-jackson2021.ga","ws-headers":{"HOST":"vincent-jackson2021.ga"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
