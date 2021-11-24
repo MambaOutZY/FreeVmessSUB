@@ -1,6 +1,2 @@
 proxies:
-- {"name":"Relay_-🇷🇺RU_06","server":"t1.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t1.ssrsub.com","udp":true}
-- {"name":"Relay_-🇷🇺RU_07","server":"t3.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t3.ssrsub.com","udp":true}
-- {"name":"Relay_-🇷🇺RU_08","server":"t1.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t1.ssrsub.com","udp":true}
-- {"name":"Relay_-🇷🇺RU_09","server":"t3.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t3.ssrsub.com","udp":true}
-- {"name":"🇭🇰HK_17","server":"62.216.92.179","type":"trojan","country":"🇭🇰HK","port":443,"password":"28d98f761aca9d636f44db62544628eb","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
