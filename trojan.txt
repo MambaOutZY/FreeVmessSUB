@@ -1,3 +1,2 @@
 proxies:
-- {"name":"Relay_-🇷🇺RU_11","server":"t5.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t5.ssrsub.com","udp":true}
-- {"name":"Relay_-🇷🇺RU_12","server":"t5.ssrsub.com","type":"trojan","port":11033,"password":"a0daa9d9-6257-4ae9-9959-ccfb993f122c","sni":"t5.ssrsub.com","udp":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
