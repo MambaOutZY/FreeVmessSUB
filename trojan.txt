@@ -1,2 +1,4 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"Relay_-🇨🇦CA_04","server":"t6.ssrsub.com","type":"trojan","port":11033,"password":"0d0a53dd-6a0f-47ac-8d0c-6eca674926b2","sni":"t6.ssrsub.com","udp":true}
+- {"name":"🇨🇭CH_09","server":"185.126.116.235","type":"trojan","country":"🇨🇭CH","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","sni":"t.me/vpnhat","skip-cert-verify":true,"udp":true}
+- {"name":"🇨🇭CH_10","server":"185.126.116.235","type":"trojan","country":"🇨🇭CH","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}

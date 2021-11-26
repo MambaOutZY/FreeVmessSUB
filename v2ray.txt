@@ -1,2 +1,2 @@
 proxies:
-- {"name":"🇬🇧GB_12","server":"45.145.74.225","type":"vmess","country":"🇬🇧GB","port":33999,"uuid":"300c505b-c09d-4e2b-f4ff-f522f8c576bf","alterId":128,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
