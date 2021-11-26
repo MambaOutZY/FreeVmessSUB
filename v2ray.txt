@@ -1,2 +1,2 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"🇭🇰HK_05","server":"183.179.115.79","type":"vmess","country":"🇭🇰HK","port":1888,"uuid":"d3a6f8f5-9953-3bf5-956b-1ccc40811a98","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"t.me/vpnhat","ws-headers":{"HOST":"t.me/vpnhat"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
