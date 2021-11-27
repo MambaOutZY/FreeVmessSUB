@@ -1,2 +1,2 @@
 proxies:
-- {"name":"Relay_🇺🇸 US-🇺🇸US_12","server":"cc.hciahciphcie.club","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"9a297bb1-06e3-4e6f-97fa-3d3202d46596","alterId":2,"cipher":"auto","network":"ws","ws-path":"/84c3f/","servername":"cc.hciahciphcie.club","ws-headers":{"HOST":"cc.hciahciphcie.club"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬 SG_12","server":"178.128.60.65","type":"vmess","country":"🇸🇬 SG","port":8081,"uuid":"7717ec1b-5e03-4680-a860-810ef248f2f8","alterId":0,"cipher":"auto","network":"ws","ws-path":"/singapore","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
