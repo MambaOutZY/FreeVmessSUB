@@ -1,2 +1,2 @@
 proxies:
-- {"name":"🇺🇸US_11","server":"66.42.106.69","type":"vmess","country":"🇺🇸US","port":56375,"uuid":"6b8a8068-4de0-11ec-96e9-560003b39b08","alterId":0,"cipher":"auto","network":"ws","ws-path":"/DTuV2FWU/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_19","server":"173.82.240.245","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"9a297bb1-06e3-4e6f-97fa-3d3202d46596","alterId":2,"cipher":"auto","network":"ws","ws-path":"/84c3f/","servername":"cc.hciahciphcie.club","ws-headers":{"HOST":"cc.hciahciphcie.club"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
