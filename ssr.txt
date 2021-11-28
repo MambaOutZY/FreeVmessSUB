@@ -1,4 +1,2 @@
 proxies:
-- {"name":"🇦🇺 AU_08","server":"45.77.48.44","type":"ssr","country":"🇦🇺 AU","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-- {"name":"🇩🇪DE_13","server":"136.243.191.85","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
-- {"name":"🇩🇪DE_14","server":"136.243.191.88","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
