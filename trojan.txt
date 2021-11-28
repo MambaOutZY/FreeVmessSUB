@@ -1,2 +1,3 @@
 proxies:
-- {"name":"🇬🇧GB_07","server":"109.74.194.189","type":"trojan","country":"🇬🇧GB","port":1443,"password":"7x42LetRa0","skip-cert-verify":true,"udp":true}
+- {"name":"Relay_-🇨🇦CA_01","server":"t7.ssrsub.com","type":"trojan","port":21033,"password":"2b19f253-5da2-4ca2-a950-8b4e7b3ddadb","sni":"t7.ssrsub.com","udp":true}
+- {"name":"Relay_-🇨🇦CA_02","server":"t7.ssrsub.com","type":"trojan","port":21033,"password":"1ed0dd9b-7c66-4738-be47-8e543b2126e4","sni":"t7.ssrsub.com","udp":true}
