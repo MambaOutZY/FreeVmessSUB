@@ -1,5 +1,2 @@
 proxies:
-- {"name":"Relay_-🇨🇦CA_03","server":"t6.ssrsub.com","type":"trojan","port":21033,"password":"2b19f253-5da2-4ca2-a950-8b4e7b3ddadb","sni":"t6.ssrsub.com","udp":true}
-- {"name":"Relay_-🇨🇦CA_04","server":"t6.ssrsub.com","type":"trojan","port":21033,"password":"1ed0dd9b-7c66-4738-be47-8e543b2126e4","sni":"t6.ssrsub.com","udp":true}
-- {"name":"Relay_🇺🇸US-🇺🇸US_22","server":"abnode18.makegamegoal.com","type":"trojan","country":"🇺🇸US","port":8443,"password":"4e234754-49ce-4ed5-b369-2c82e5615497","sni":"abnode18.makegamegoal.com","skip-cert-verify":true,"udp":true}
-- {"name":"Relay_🇺🇸US-🇺🇸US_23","server":"abnode12.makegamegoal.com","type":"trojan","country":"🇺🇸US","port":8443,"password":"4e234754-49ce-4ed5-b369-2c82e5615497","sni":"abnode12.makegamegoal.com","skip-cert-verify":true,"udp":true}
+- {"name":"🇩🇪DE_11","server":"5.183.179.138","type":"trojan","country":"🇩🇪DE","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
