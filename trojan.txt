@@ -1,2 +1,2 @@
 proxies:
-- {"name":"🇸🇬SG_13","server":"81.90.189.85","type":"trojan","country":"🇸🇬SG","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
