@@ -1,2 +1,2 @@
 proxies:
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"Relay_🏁ZZ-🇺🇸US_09","server":"104.16.38.252","type":"vmess","country":"🏁ZZ","port":443,"uuid":"4d88f6a2-aaa9-42b6-afc4-227f89974119","alterId":0,"cipher":"auto","network":"ws","ws-path":"/The-Great-Awakening_vws","servername":"vincent-jackson2021.ga","ws-headers":{"HOST":"vincent-jackson2021.ga"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
