@@ -1,2 +1,2 @@
 proxies:
-- {"name":"Relay_-🇨🇦CA_04","server":"t6.ssrsub.com","type":"trojan","port":21033,"password":"1ed0dd9b-7c66-4738-be47-8e543b2126e4","sni":"t6.ssrsub.com","udp":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
