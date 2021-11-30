@@ -1,3 +1,2 @@
 proxies:
-- {"name":"Relay_🇺🇸US-🇺🇸US_17","server":"sg.idvpn.me","type":"vmess","country":"🇺🇸US","port":8443,"uuid":"c74e2d99-6fbd-4e87-dc25-c05348571ef1","alterId":0,"cipher":"auto","network":"ws","ws-path":"HTTPS://T.ME/NGE_GASSS•HTTPS://T.ME/DUNIAVPN","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"Relay_🏁ZZ-🇺🇸US_32","server":"198.41.212.234","type":"vmess","country":"🏁ZZ","port":2052,"uuid":"00000000-1111-2222-3333-444444444444","alterId":0,"cipher":"auto","network":"ws","ws-path":"/Telegram/@Loss_0_Vmess","servername":"free.jianguoyun.com","ws-headers":{"HOST":"free.jianguoyun.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_07","server":"107.189.12.75","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"261aeb5f-b6f7-359c-a321-9794bf344e12","alterId":2,"cipher":"auto","network":"ws","ws-path":"/v2ray","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
