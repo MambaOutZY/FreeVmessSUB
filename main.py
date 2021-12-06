@@ -15,13 +15,13 @@ def main():
     with open('./v2ray.txt', 'w', encoding="utf-8") as f:
         f.write(resp.text)
 
-    resp = requests.get("https://hello.stgod.com/clash/proxies?nc=CN,c=HK,TW,JP&speed=20,100&type=ss")
+    resp = requests.get("https://hello.stgod.com/clash/proxies?nc=CN,c=HK,TW,JP&type=ss")
     with open('./ss.txt', 'w', encoding="utf-8") as f:
         f.write(resp.text)
-    resp = requests.get("https://hello.stgod.com/clash/proxies?nc=CN,c=HK,TW,JP&speed=20,100&type=ssr")
+    resp = requests.get("https://hello.stgod.com/clash/proxies?nc=CN,c=HK,TW,JP&type=ssr")
     with open('./ssr.txt', 'w', encoding="utf-8") as f:
         f.write(resp.text)
-    resp = requests.get("https://hello.stgod.com/clash/proxies?nc=CN,c=HK,TW,JP&speed=20,100&type=trojan")
+    resp = requests.get("https://hello.stgod.com/clash/proxies?nc=CN,c=HK,TW,JP&type=trojan")
     with open('./trojan.txt', 'w', encoding="utf-8") as f:
         f.write(resp.text)
 
